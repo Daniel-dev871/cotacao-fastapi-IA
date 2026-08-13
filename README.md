@@ -7,7 +7,6 @@
 
 API RESTful desenvolvida em FastAPI para consulta de dados do mercado financeiro em tempo real e geração de análises técnicas e conselhos práticos através do modelo de linguagem Google Gemini (3.5 Flash).
 
----
 
 ## Funcionalidades
 
@@ -16,7 +15,6 @@ API RESTful desenvolvida em FastAPI para consulta de dados do mercado financeiro
 - **Documentação Interativa:** Interface Swagger UI integrada e pronta para testes no endpoint `/docs`.
 - **Execução Assíncrona:** Alta performance e baixo tempo de resposta com Uvicorn e FastAPI.
 
----
 
 ## Arquitetura e Tecnologias
 
@@ -27,7 +25,6 @@ API RESTful desenvolvida em FastAPI para consulta de dados do mercado financeiro
 - **Cliente HTTP:** Requests
 - **Gerenciamento de Ambiente:** `python-dotenv`
 
----
 
 ## Instalação e Execução
 
